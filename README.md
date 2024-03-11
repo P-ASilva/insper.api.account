@@ -1,6 +1,7 @@
 # insper.api.account
+
 2024.1 BCC 
 
-Interface Project
+Interface Project for a account system
 
-run with - mvn install
+run with - ```mvn clean install```
